@@ -15,3 +15,8 @@ Update info,
 Delete an entry,
 Close the program.
 """
+
+Technologies used:
+Python 3,
+sqlite3,
+tkinter.
